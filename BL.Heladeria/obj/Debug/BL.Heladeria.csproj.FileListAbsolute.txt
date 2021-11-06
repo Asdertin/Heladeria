@@ -53,3 +53,13 @@ C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3
 C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
 C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
 C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\CristianJeffryn&mart\Desktop\keilyPRoyec\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\CristianJeffryn&mart\Desktop\keilyPRoyec\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\CristianJeffryn&mart\Desktop\keilyPRoyec\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\CristianJeffryn&mart\Desktop\keilyPRoyec\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\CristianJeffryn&mart\Desktop\keilyPRoyec\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CristianJeffryn&mart\Desktop\keilyPRoyec\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\CristianJeffryn&mart\Desktop\keilyPRoyec\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CristianJeffryn&mart\Desktop\keilyPRoyec\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\CristianJeffryn&mart\Desktop\keilyPRoyec\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\CristianJeffryn&mart\Desktop\keilyPRoyec\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb

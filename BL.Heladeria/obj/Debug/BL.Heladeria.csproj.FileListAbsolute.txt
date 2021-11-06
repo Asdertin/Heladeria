@@ -1,0 +1,55 @@
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Sistema_heladeria\heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Sistema_heladeria\heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Sistema_heladeria\heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Sistema_heladeria\heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Sistema_heladeria\heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
